@@ -20,6 +20,9 @@ This interactive Java application demonstrates the Watts-Strogatz Small-World Mo
 * **Java Development Kit (JDK):** Version 17 or higher.
 * **Maven:** For dependency management and building the project.
 
+## Quick-Start
+This project is deployed in a standalone executable jar file which can be downloaded via the releases page.
+
 ## How to Build and Run
 
 1. **Clone or Download** the repository.
